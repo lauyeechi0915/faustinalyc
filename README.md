@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinalyc&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinalyc&hide_progress=true)
 
+<!---
 ## 🔥GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faustinalyc&theme=duskfox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+--->
