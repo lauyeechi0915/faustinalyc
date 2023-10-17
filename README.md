@@ -27,6 +27,10 @@
 
 </div>
 --->
+## 🎖️Achievements and Skills
+- [AWS Academy Cloud Foundations](https://www.linkedin.com/posts/lauyeechi0915_aws-academy-graduate-aws-academy-cloud-activity-7119936525370331136-yFza?utm_source=share&utm_medium=member_desktop)
+- [Microsoft Certified: Azure Data Fundamentals](https://www.linkedin.com/posts/lauyeechi0915_microsoft-certified-azure-data-fundamentals-activity-7119935751093424128-VuPw?utm_source=share&utm_medium=member_desktop)
+
 ## 🕸️ Let's Connect
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt ="me in linkedin" height="auto" width="20" /> [LinkedIn](https://www.linkedin.com/in/lauyeechi0915/)
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt ="instagram" height="auto" width="20" /> [Instagram](https://www.instagram.com/faustinalyc_/)
